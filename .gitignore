@@ -1,0 +1,83 @@
+# Parkinson's Disease Gut Microbiome Project
+
+# Raw sequencing data
+data/raw/*
+!data/raw/.gitkeep
+
+# Large processed data
+data/processed/*
+!data/processed/.gitkeep
+
+# Temporary/intermediate results
+results/**/intermediate/
+results/**/tmp/
+results/**/temporary/
+
+# Sequencing/alignment files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# QIIME 2
+*.qza
+*.qzv
+
+# BIOM
+*.biom
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Conda / virtual environments
+.conda/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Caches
+.cache/

@@ -81,3 +81,9 @@ env/
 
 # Caches
 .cache/
+
+# Generated QC reports and intermediate folders
+results/qc/*
+!results/qc/PRJEB27564/
+results/qc/PRJEB27564/*
+!results/qc/PRJEB27564/*.tsv

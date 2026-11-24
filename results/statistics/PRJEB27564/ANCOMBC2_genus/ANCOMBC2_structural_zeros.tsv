@@ -1,0 +1,316 @@
+taxon	structural_zero (parkinson = no)	structural_zero (parkinson = yes)
+[Bacteroides] pectinophilus group	TRUE	TRUE
+[Clostridium] innocuum group	FALSE	FALSE
+[Clostridium] methylpentosum group	FALSE	FALSE
+[Eubacterium] brachy group	FALSE	FALSE
+[Eubacterium] eligens group	FALSE	FALSE
+[Eubacterium] oxidoreducens group	FALSE	FALSE
+[Eubacterium] ruminantium group	FALSE	FALSE
+[Eubacterium] siraeum group	FALSE	FALSE
+[Eubacterium] sulci group	TRUE	TRUE
+[Eubacterium] ventriosum group	FALSE	FALSE
+[Eubacterium] xylanophilum group	FALSE	FALSE
+[Ruminococcus] gauvreauii group	FALSE	FALSE
+[Ruminococcus] gnavus group	FALSE	FALSE
+Abiotrophia	TRUE	TRUE
+Absiella	TRUE	TRUE
+Acetanaerobacterium	FALSE	FALSE
+Acidaminococcus	FALSE	FALSE
+Acidovorax	TRUE	TRUE
+Acinetobacter	TRUE	TRUE
+Actinobaculum	TRUE	TRUE
+Actinomyces	TRUE	TRUE
+Acutalibacter	FALSE	FALSE
+Adlercreutzia	FALSE	FALSE
+Aeribacillus	TRUE	TRUE
+Agathobacter	FALSE	FALSE
+Agathobaculum	FALSE	FALSE
+Akkermansia	FALSE	FALSE
+Alistipes	FALSE	FALSE
+Allisonella	FALSE	FALSE
+Alloscardovia	TRUE	TRUE
+Amedibacillus	TRUE	TRUE
+Anaerobutyricum	FALSE	FALSE
+Anaerococcus	TRUE	TRUE
+Anaerofilum	FALSE	FALSE
+Anaerofustis	FALSE	FALSE
+Anaeroglobus	TRUE	TRUE
+Anaeroplasma	FALSE	FALSE
+Anaerorhabdus	TRUE	TRUE
+Anaerosinus	TRUE	TRUE
+Anaerosporomusa	TRUE	TRUE
+Anaerostipes	FALSE	FALSE
+Anaerotignum	TRUE	FALSE
+Anaerotruncus	FALSE	FALSE
+Anaerovorax	FALSE	FALSE
+Angelakisella	FALSE	FALSE
+Aquisphaera	TRUE	TRUE
+Arcobacter	TRUE	TRUE
+Asaccharobacter	FALSE	FALSE
+Asteroleplasma	FALSE	FALSE
+Atopobium	TRUE	TRUE
+Bacteroides	FALSE	FALSE
+Barnesiella	FALSE	FALSE
+Berryella	TRUE	TRUE
+Bifidobacterium	FALSE	FALSE
+Bilophila	FALSE	FALSE
+Blautia	FALSE	FALSE
+Butyribacter	FALSE	FALSE
+Butyricimonas	FALSE	FALSE
+Butyrivibrio	FALSE	FALSE
+CAG-196	FALSE	FALSE
+CAG-352	FALSE	FALSE
+CAG-56	FALSE	FALSE
+CAG-873	FALSE	FALSE
+Caldalkalibacillus	TRUE	TRUE
+Caldicoprobacter	FALSE	FALSE
+Caldimonas	TRUE	TRUE
+Campylobacter	FALSE	TRUE
+Candidatus Methanoplasma	TRUE	TRUE
+Candidatus Soleaferrea	FALSE	FALSE
+Capnocytophaga	TRUE	TRUE
+Caproiciproducens	FALSE	FALSE
+Catenibacillus	FALSE	FALSE
+Catenibacterium	TRUE	FALSE
+Catenisphaera	FALSE	FALSE
+Cellulosilyticum	TRUE	TRUE
+CHKCI001	TRUE	FALSE
+CHKCI002	TRUE	FALSE
+Christensenella	FALSE	FALSE
+Christensenellaceae R-7 group	FALSE	FALSE
+Citrobacter	TRUE	TRUE
+Cloacibacillus	FALSE	FALSE
+Clostridium	FALSE	FALSE
+Colidextribacter	FALSE	FALSE
+Collinsella	FALSE	FALSE
+Comamonas	TRUE	TRUE
+Coprobacillus	FALSE	FALSE
+Coprobacter	FALSE	FALSE
+Coprococcus	FALSE	FALSE
+Coriobacteriaceae UCG-002	TRUE	TRUE
+Coriobacteriaceae UCG-003	TRUE	TRUE
+Corynebacterium	TRUE	TRUE
+Criibacterium	TRUE	TRUE
+Cuneatibacter	TRUE	TRUE
+Cutibacterium	TRUE	TRUE
+Defluviitaleaceae UCG-011	FALSE	FALSE
+Desulfitibacter	TRUE	TRUE
+Desulfocucumis	TRUE	TRUE
+Desulfovibrio	FALSE	FALSE
+dgA-11 gut group	TRUE	TRUE
+Dialister	FALSE	FALSE
+Dielma	FALSE	FALSE
+Dorea	FALSE	FALSE
+DTU089	FALSE	FALSE
+Eggerthella	FALSE	FALSE
+Eisenbergiella	FALSE	FALSE
+Elusimicrobium	TRUE	TRUE
+Enhydrobacter	TRUE	TRUE
+Enorma	FALSE	FALSE
+Enterobacter	FALSE	FALSE
+Enterocloster	FALSE	FALSE
+Enterococcus	TRUE	TRUE
+Enteroscipio	TRUE	TRUE
+Epulopiscium	TRUE	FALSE
+Erysipelotrichaceae UCG-003	FALSE	FALSE
+Erysipelotrichaceae UCG-006	TRUE	TRUE
+Escherichia-Shigella	FALSE	FALSE
+Eubacterium	FALSE	TRUE
+Exiguobacterium	TRUE	TRUE
+Extibacter	FALSE	FALSE
+Ezakiella	FALSE	FALSE
+Faecalibacterium	FALSE	FALSE
+Faecalicatena	FALSE	FALSE
+Faecalicoccus	TRUE	TRUE
+Faecalimonas	FALSE	FALSE
+Faecalitalea	FALSE	FALSE
+Family XIII AD3011 group	FALSE	FALSE
+Family XIII UCG-001	FALSE	FALSE
+Fannyhessea	TRUE	TRUE
+Fastidiosipila	TRUE	FALSE
+FD2005	TRUE	TRUE
+Fenollaria	FALSE	FALSE
+Finegoldia	TRUE	TRUE
+Flavonifractor	FALSE	FALSE
+Fournierella	FALSE	FALSE
+Frisingicoccus	FALSE	FALSE
+Fructobacillus	TRUE	TRUE
+Fusicatenibacter	FALSE	FALSE
+Fusobacterium	FALSE	TRUE
+Gabonibacter	FALSE	FALSE
+Gardnerella	FALSE	FALSE
+GCA-900066575	FALSE	FALSE
+GCA-900066755	TRUE	TRUE
+Gemella	TRUE	TRUE
+Gemmiger	FALSE	FALSE
+Gordonibacter	FALSE	FALSE
+Granulicatella	FALSE	FALSE
+Haemophilus	FALSE	FALSE
+Hafnia-Obesumbacterium	TRUE	TRUE
+Halomonas	TRUE	FALSE
+Harryflintia	FALSE	FALSE
+Herbinix	TRUE	TRUE
+HN-HF0106	TRUE	TRUE
+Holdemanella	FALSE	FALSE
+Holdemania	FALSE	FALSE
+Howardella	FALSE	FALSE
+Hoylesella	FALSE	FALSE
+HT002	TRUE	FALSE
+Hungatella	FALSE	FALSE
+Hydrogenispora	TRUE	TRUE
+Hydrogenoanaerobacterium	FALSE	FALSE
+Idiomarina	TRUE	TRUE
+Intestinibacter	FALSE	FALSE
+Intestinimonas	FALSE	FALSE
+Kallipyga	TRUE	TRUE
+Klebsiella	FALSE	FALSE
+Lachnoanaerobaculum	TRUE	TRUE
+Lachnoclostridium	FALSE	FALSE
+Lachnospira	FALSE	FALSE
+Lachnospiraceae AC2044 group	FALSE	FALSE
+Lachnospiraceae FCS020 group	FALSE	FALSE
+Lachnospiraceae FE2018 group	FALSE	FALSE
+Lachnospiraceae NC2004 group	FALSE	FALSE
+Lachnospiraceae ND3007 group	FALSE	FALSE
+Lachnospiraceae NK4A136 group	FALSE	FALSE
+Lachnospiraceae NK4B4 group	FALSE	FALSE
+Lachnospiraceae UCG-002	TRUE	TRUE
+Lachnospiraceae UCG-003	FALSE	FALSE
+Lachnospiraceae UCG-004	FALSE	FALSE
+Lachnospiraceae UCG-007	TRUE	TRUE
+Lachnospiraceae UCG-010	FALSE	FALSE
+Lacticaseibacillus	TRUE	FALSE
+Lactobacillus	FALSE	FALSE
+Lactococcus	FALSE	FALSE
+Lactonifactor	TRUE	TRUE
+Lancefieldella	FALSE	TRUE
+Lapidilactobacillus	TRUE	TRUE
+Latilactobacillus	TRUE	TRUE
+Lawsonella	TRUE	TRUE
+Leptotrichia	TRUE	TRUE
+Leuconostoc	TRUE	TRUE
+Leyella	FALSE	TRUE
+Ligilactobacillus	TRUE	FALSE
+Limosilactobacillus	FALSE	FALSE
+Longibaculum	TRUE	TRUE
+Luteimonas	TRUE	TRUE
+Mailhella	FALSE	TRUE
+Marvinbryantia	FALSE	FALSE
+Massilia	TRUE	TRUE
+Massiliomicrobiota	FALSE	FALSE
+Massiliprevotella	FALSE	TRUE
+Mediterraneibacter	FALSE	FALSE
+Megamonas	TRUE	TRUE
+Megasphaera	TRUE	FALSE
+Merdibacter	FALSE	FALSE
+Methanobrevibacter	FALSE	FALSE
+Methylopila	TRUE	TRUE
+Mitsuokella	TRUE	TRUE
+Mobiluncus	TRUE	FALSE
+Mogibacterium	TRUE	TRUE
+Monoglobus	FALSE	FALSE
+Murdochiella	TRUE	FALSE
+Muribaculum	TRUE	TRUE
+Negativibacillus	FALSE	FALSE
+Negativicoccus	TRUE	TRUE
+Neisseria	TRUE	TRUE
+Neoscardovia	TRUE	TRUE
+Nesterenkonia	TRUE	TRUE
+NK4A214 group	FALSE	FALSE
+Nubsella	TRUE	TRUE
+Occallatibacter	TRUE	TRUE
+Odoribacter	FALSE	FALSE
+Olsenella	FALSE	TRUE
+Oribacterium	FALSE	FALSE
+Ornithinibacillus	TRUE	TRUE
+Oscillibacter	FALSE	FALSE
+Oscillospira	FALSE	FALSE
+Oxalobacter	FALSE	FALSE
+Paludicola	FALSE	FALSE
+Papillibacter	FALSE	FALSE
+Parabacteroides	FALSE	FALSE
+Paraherbaspirillum	TRUE	TRUE
+Paraprevotella	FALSE	FALSE
+Parascardovia	TRUE	TRUE
+Parasutterella	FALSE	FALSE
+Parolsenella	TRUE	TRUE
+Parvimonas	FALSE	FALSE
+Paucibacter	TRUE	TRUE
+Paucilactobacillus	TRUE	TRUE
+Pediococcus	TRUE	FALSE
+Pelospora	TRUE	TRUE
+Peptococcus	FALSE	FALSE
+Peptoniphilus	FALSE	FALSE
+Peptostreptococcus	FALSE	FALSE
+Phascolarctobacterium	FALSE	FALSE
+Phocea	FALSE	FALSE
+Phoenicibacter	TRUE	TRUE
+Porphyromonas	FALSE	FALSE
+Prevotella	FALSE	FALSE
+Prevotellaceae NK3B31 group	FALSE	FALSE
+Prevotellaceae UCG-001	FALSE	FALSE
+Prevotellaceae UCG-004	TRUE	TRUE
+Proteus	TRUE	TRUE
+Pseudoflavonifractor	FALSE	FALSE
+Pseudomonas	TRUE	TRUE
+Pseudoprevotella	TRUE	TRUE
+Pygmaiobacter	FALSE	FALSE
+Raoultella	TRUE	TRUE
+Raoultibacter	TRUE	TRUE
+Rarimicrobium	TRUE	TRUE
+Rikenella	TRUE	FALSE
+Rikenellaceae RC9 gut group	FALSE	FALSE
+Robinsoniella	TRUE	TRUE
+Romboutsia	FALSE	FALSE
+Roseburia	FALSE	FALSE
+Rothia	FALSE	FALSE
+Ruminiclostridium	FALSE	FALSE
+Ruminococcus	FALSE	FALSE
+Ruthenibacterium	FALSE	FALSE
+S5-A14a	TRUE	FALSE
+Scardovia	TRUE	FALSE
+Schaalia	FALSE	FALSE
+Segatella	FALSE	FALSE
+Selenomonas	TRUE	TRUE
+Sellimonas	FALSE	FALSE
+Senegalimassilia	FALSE	FALSE
+Shinella	TRUE	TRUE
+Shuttleworthia	FALSE	FALSE
+Slackia	FALSE	FALSE
+Sneathia	TRUE	TRUE
+Solobacterium	FALSE	TRUE
+Sporobacter	TRUE	TRUE
+Staphylococcus	TRUE	TRUE
+Stomatobaculum	TRUE	TRUE
+Streptococcus	FALSE	FALSE
+Subdoligranulum	FALSE	FALSE
+Succinatimonas	TRUE	TRUE
+Succiniclasticum	TRUE	FALSE
+Succinivibrio	TRUE	TRUE
+Sutterella	FALSE	FALSE
+Synergistes	TRUE	TRUE
+Syntrophomonas	TRUE	TRUE
+Tannockella	TRUE	FALSE
+Terrisporobacter	FALSE	FALSE
+Thomasclavelia	FALSE	FALSE
+Tissierella	TRUE	TRUE
+TM7x	TRUE	TRUE
+Tractidigestivibacter	FALSE	FALSE
+Turicibacter	FALSE	FALSE
+Tyzzerella	FALSE	FALSE
+UC5-1-2E3	FALSE	FALSE
+UCG-002	FALSE	FALSE
+UCG-003	FALSE	FALSE
+UCG-004	FALSE	FALSE
+UCG-005	FALSE	FALSE
+UCG-007	FALSE	FALSE
+UCG-008	FALSE	FALSE
+UCG-009	FALSE	FALSE
+V9D2013 group	FALSE	FALSE
+Varibaculum	TRUE	TRUE
+Variovorax	TRUE	TRUE
+Veillonella	FALSE	FALSE
+Victivallis	FALSE	FALSE
+W5053	TRUE	TRUE
+Weissella	TRUE	TRUE
+Zag_111	FALSE	FALSE

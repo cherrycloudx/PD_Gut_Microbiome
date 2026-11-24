@@ -1,0 +1,36 @@
+BETA DIVERSITY ANALYSIS
+=======================
+
+Cohort: PRJEB27564 baseline
+Samples: 131
+Genus features: 315
+Controls: 64
+PD: 67
+Distance: Bray-Curtis
+Ordination: PCoA with additive correction
+PCoA axis 1: 10.375 %
+PCoA axis 2: 6.918 %
+
+PERMANOVA:
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 9999
+
+vegan::adonis2(formula = bray ~ parkinson, data = md, permutations = 9999)
+          Df SumOfSqs      R2      F Pr(>F)
+Model      1    0.507 0.02407 3.1816  2e-04 ***
+Residual 129   20.555 0.97593
+Total    130   21.062 1.00000
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+PERMDISP:
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+           Df  Sum Sq   Mean Sq      F N.Perm Pr(>F)
+Groups      1 0.00305 0.0030451 0.4038   9999 0.5275
+Residuals 129 0.97276 0.0075408

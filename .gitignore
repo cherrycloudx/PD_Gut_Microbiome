@@ -87,3 +87,39 @@ results/qc/*
 !results/qc/PRJEB27564/
 results/qc/PRJEB27564/*
 !results/qc/PRJEB27564/*.tsv
+references/databases/SILVA_138.2/*.fa.gz
+
+# Temporary metadata tests
+data/metadata/test_*.xml
+
+# macOS files
+.DS_Store
+
+# Large reference and source files
+data/reference/*.xlsx
+references/databases/
+references/romano_2025/*.zip
+
+# Large trained machine-learning model objects
+results/machine_learning/PRJEB27564/experiments/**/*.rds
+
+# Intermediate R objects
+*.rds
+
+# Sample-level and cohort-level data: keep local, do not publish
+data/metadata/PRJNA834801_*.tsv
+results/machine_learning/PRJEB27564/input/
+results/metadata_audit/PRJNA834801/
+results/statistics/PRJEB27564/ANCOMBC2_genus/ANCOMBC2_input_*.tsv
+results/statistics/PRJEB27564/beta_diversity/Bray_Curtis_distance_matrix.tsv
+results/statistics/PRJEB27564/beta_diversity/PCoA_coordinates.tsv
+results/statistics/PRJEB27564/beta_diversity/PERMDISP_sample_distances.tsv
+results/statistics/PRJEB27564/collection_date_sensitivity/complete_date_sample_manifest.tsv
+results/taxonomy/PRJEB27564/abundance_matrices_131/ASVs_unassigned_at_genus.tsv
+results/taxonomy/PRJEB27564/abundance_matrices_131/genus_counts.tsv
+results/taxonomy/PRJEB27564/abundance_matrices_131/genus_relative_abundance_*.tsv
+results/taxonomy/PRJEB27564/abundance_matrices_131/matched_sample_metadata.tsv
+
+# Local sample-level ML matrices and predictions
+results/machine_learning/PRJEB27564/experiments/*_LOG_Ridge/filtered_genus_features.tsv
+results/machine_learning/PRJEB27564/experiments/5pct_LOG_Ridge/ridge_mean_predictions.tsv

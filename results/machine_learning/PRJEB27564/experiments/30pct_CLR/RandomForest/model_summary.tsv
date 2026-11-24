@@ -1,0 +1,2 @@
+Model	Prevalence	Normalization	Samples	Genera	Folds	Repetitions	Mean_repeat_AUROC	SD_repeat_AUROC	Mean_curve_AUROC	Mean_repeat_AUPRC	SD_repeat_AUPRC	Mean_curve_AUPRC
+RandomForest	30%	log.clr	131	115	10	10	0.662313432835821	0.0265553453386564	0.671408582089552	0.636848539620322	0.0281160597477227	0.641305174582479

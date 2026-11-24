@@ -1,0 +1,5 @@
+Prevalence_threshold	Minimum_samples	Genera_retained	Genera_removed
+5%	7	198	117
+10%	14	158	157
+20%	27	133	182
+30%	40	115	200

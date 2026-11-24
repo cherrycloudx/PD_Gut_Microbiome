@@ -1,0 +1,2 @@
+Model	Prevalence	Normalization	Samples	Genera	Folds	Repetitions	Mean_repeat_AUROC	SD_repeat_AUROC	Mean_curve_AUROC	Mean_repeat_AUPRC	SD_repeat_AUPRC	Mean_curve_AUPRC
+ElasticNet	5%	log.clr	131	198	10	10	0.59423973880597	0.0208221484836192	0.592817164179104	0.610283995576278	0.0309244829462913	0.623806305448527
